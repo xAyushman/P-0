@@ -60,3 +60,5 @@ print(classification_report(y_test, y_pred))
 joblib.dump(model, '../models/spam_classifier.pkl')
 joblib.dump(vectorizer, '../models/tfidf_vectorizer.pkl')
 
+
+print("Model and vectorizer saved successfully!")
