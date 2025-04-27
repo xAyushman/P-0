@@ -1,9 +1,14 @@
 import streamlit as st
 import joblib
+import os
+
+# Correct Paths
+model_path = os.path.join('models', 'spam_classifier.pkl')
+vectorizer_path = os.path.join('models', 'tfidf_vectorizer.pkl')
 
 # Load the model and vectorizer
-model = joblib.load('../models/spam_classifier.pkl')
-vectorizer = joblib.load('../models/tfidf_vectorizer.pkl')
+model = joblib.load(model_path)
+vectorizer = joblib.load(vectorizer_path)
 
 # Streamlit app setup
 st.set_page_config(page_title="Email Spam Classifier", page_icon="📧", layout="centered")
