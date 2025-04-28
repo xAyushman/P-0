@@ -1,15 +1,4 @@
-Got it — you want a **more detailed and slightly more professional** README, and you are:
-
-- **GitHub username:** `xAyushman`
-- **Repo name:** `P-0`
-
-I'll update everything accordingly.
-
-Here’s your **final upgraded README**, well-structured and directly ready to paste 👇:
-
----
-
-# 📧 Email Spam Classifier — Project P-0
+📧 Email Spam Classifier — Project P-0
 
 Welcome to **P-0**, a project where we build, train, and deploy a Machine Learning model that classifies emails as **Spam** or **Not Spam (Ham)**.  
 This project showcases a full end-to-end pipeline — from **data preprocessing** to **model deployment** using **Streamlit**!
@@ -19,9 +8,6 @@ This project showcases a full end-to-end pipeline — from **data preprocessing*
 ## 🌐 Live App
 
 👉 [Access the App Here](https://spamxclassifier.streamlit.app/)  
-*(Replace `#` with your deployed Streamlit link)*
-
----
 
 ## 📖 Table of Contents
 
