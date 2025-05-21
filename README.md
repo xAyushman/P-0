@@ -1,4 +1,4 @@
-📧 Email Spam Classifier — Project P-0
+📧 Spam Classifier — Project P-0
 
 Welcome to **P-0**, a project where we build, train, and deploy a Machine Learning model that classifies emails as **Spam** or **Not Spam (Ham)**.  
 This project showcases a full end-to-end pipeline — from **data preprocessing** to **model deployment** using **Streamlit**!
